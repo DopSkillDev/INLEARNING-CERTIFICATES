@@ -1,8 +1,8 @@
 # LINKEDIN LEARNING - CERTIFICATES
 
 > COURSE - COMPLETEDS
-- [Azure Active Directory: Basics]()
-- [Beginner&amp;#39;s Guide to C#]()
+- [Azure Active Directory: Basics](https://github.com/dop-s/INLEARNING-CERTIFICATES/files/7573676/CertificateOfCompletion_Azure.Active.Directory.Basics.pdf)
+- [Beginner Guide to C#]()
 - [Building React and ASP.NET MVC 5 Applications]()
 - [C# Essential Training: 1 Syntax and Object Oriented Programming]()
 - [C# Essential Training: 2 Flow Control, Arrays, and Exception Handling]()
